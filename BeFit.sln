@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeFit", "BeFit\BeFit.csproj", "{EA489C54-FBFC-4E43-B2E9-656AAC3F0727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA489C54-FBFC-4E43-B2E9-656AAC3F0727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA489C54-FBFC-4E43-B2E9-656AAC3F0727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA489C54-FBFC-4E43-B2E9-656AAC3F0727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA489C54-FBFC-4E43-B2E9-656AAC3F0727}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
